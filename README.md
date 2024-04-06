@@ -1,0 +1,2 @@
+# fuji
+test new project
